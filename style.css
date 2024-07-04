@@ -1,0 +1,83 @@
+img{
+    width: 240px;
+}
+.courses{
+    margin-left: 45%;
+    
+}
+nav{
+    border-width: 250px ;
+    
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+ol,li{
+    display: inline;
+    
+}
+.head1{
+    display: inline;
+    cursor: pointer;
+    
+}
+ol{
+    padding-left: 80%;
+}
+li:hover{
+    color: blue;
+    cursor: pointer;
+}
+.search{
+    text-align: center;
+    margin-top: 5%;
+    
+   
+}
+p{
+    display: inline-block;
+    cursor: pointer;
+}
+img{
+    display: inline;
+    height: 100px;
+    width: 100px;
+    
+}
+.html1{
+   
+    
+
+
+    border: 2px;
+    width: 250px;
+    text-align: center;
+    border-style: solid;
+    padding-top: 10px;
+    display: inline-block;
+    margin-left: 20px;
+    
+
+
+
+
+}
+.html{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.coursep:hover{
+    background-color: black;
+    color: white;
+    
+}
+button{
+    margin-bottom: 15px;
+    background-color: black;
+    color: bisque;
+}
+.list1 li{
+    display: block;
+}
+
